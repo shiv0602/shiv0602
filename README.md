@@ -2,8 +2,7 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+SHIV+KUMAR+RANA!;" />
-</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiv0602" alt="shiv0602" /></a> </p>
+
 
 ![logo](https://github.com/shiv0602/shiv0602/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
 
