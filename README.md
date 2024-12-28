@@ -5,7 +5,7 @@
 </h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiv0602" alt="shiv0602" /></a> </p>
 
-![logo](https://github.com/shiv0602/shiv0602/blob/main/analytics-banner_1.png)
+![logo](https://github.com/shiv0602/shiv0602/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
 
 
 <h3 align="center">A passionate Data Analtytics From India. I passionate to work in Corporate IT Sector and in my free time I make YouTube videos at https://www.youtube.com/@InsighfulExplorer</h3>
