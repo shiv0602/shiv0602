@@ -7,29 +7,57 @@
 ![logo](https://github.com/shiv0602/shiv0602/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
 
 
-<h3 align="center">A passionate Data Analtytics From India. I passionate to work in Corporate IT Sector
+<h3 align="left">A passionate Data Analtytics From India.
+
+    
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shiv0602&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
-
-- 👨‍💻 All of my projects are available at [https://github.com/shiv0602](https://github.com/shiv0602)
-
-- 💬 Ask me about **Data Analytics**
-
-- 📫 How to reach me 
+<p align="Topmost right"> <img src="https://komarev.com/ghpvc/?username=shiv0602&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>  
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shiv0602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityajaiswal7" height="30" width="40" /></a>
-<a href="https://instagram.com/shiv_k_rana98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/shivkumarrana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="m_aditya_jaiswal" height="30" width="40" /></a>
+
+## 🚀 About Me
+
+I am ✨ **Shiv Kumar Rana**✨ , recently graduated in Mechanical Engineering from **Vinoba Bhave University Hazaribag**, where I deepened my knowledge and skills in data mining, predictive analytics, and big data. With hands-on experience from companies like Accenture,TATA,Pwc and tha Consulting Services, I have honed my abilities in optimizing data pipelines, conducting data correlations analysis, and creating impactful data visualizations. My passion lies in using data-driven insights to solve complex problems and drive business strategies. I'm proficient in Python, SQL, R, and various data visualization tools, and I'm always eager to learn and explore the latest trends in data science and machine learning. Let's connect and explore the fascinating world of data together!
+
+## 🔭 My Interests
+
+- **Machine Learning & AI:** Building models that solve real-world problems.
+- **Big Data Analytics:** Leveraging tools like Hadoop and Spark for data processing.
+- **Data Visualization:** Creating impactful visual stories with Tableau and Power BI.
+- **Healthcare Analytics:** Applying data science to improve patient outcomes.
+- **Generative AI:** Building Gen-AI tools for Retrieval Augmented Generation (RAG) applications.
+
+## 🛠 Skills
+
+- **Programming languages:** Python, SQL, R
+- **Data Visualization/Business Intelligence:** Excel, Tableau, Power BI, Matplotlib, Seaborn, A/B Testing
+- **Data Analysis/Machine Learning/Deep Learning:** Scikit-Learn, TensorFlow, PyTorch, Keras, NumPy, Pandas, NLTK
+- **Big Data/Cloud Computing:** AWS, Git, Snowflake, Agile, Spark, Hadoop, DataBricks
+- **Generative AI/ LLM:** Langchain, Llama, Vector database, Chroma, Retrieval Augmented Generation (RAG), Prompt engineering
+
+<!-- - 💼 I’m currently pursuing my masters in Business Analytics from University of Maryland, College Park.
+- 🌱 I’m currently learning and sharpening my skills in Machine Learning and Data Science.
+- 🔭 I’m looking for full time opportunity to showcase my work and contribute to the organization.
+- 🥅 Goals: Contribute more to Open Source projects.                                           
+<!--<p align= "center"><img src="https://github-readme-stats.vercel.app/api?username=amlanmohanty1&show_icons=true"></p>-->
+<!--
+<br><br>
+<br>
+-->
+
+<!--<img src="https://spectrapackautomation.com/img/contactme.gif" /> -->
+## 📫 How to Reach Me
+
+<!--[![Email](https://img.shields.io/badge/Email-mohanty.amlan1400@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:mohanty.amlan1400@gmail.com) -->
+[![LinkedIn](https://www.linkedin.com/in/shiv0602/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B3aVKJVlFTzG3%2FpXNvuRyMA%3D%3D)](https://www.linkedin.com/in/shiv0602/)
+
+
+<!--
   
-</p>
+-  Linkedin : https://www.linkedin.com/in/shiv0602/
+-  Email  : mohanty.shivkrana1998@gmail.com
+-->
 
-<p align="left">
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+❤ [By SHIV KUMAR RANA](https://github.com/shiv0602/)
