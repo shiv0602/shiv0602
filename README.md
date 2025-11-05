@@ -7,7 +7,7 @@
 ![logo](https://github.com/shiv0602/shiv0602/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
 
 
-<h3 align="center">A passionate Data Analtytics From India. I passionate to work in Corporate IT Sector and in my free time I make YouTube videos at https://www.youtube.com/@InsighfulExplorer</h3>
+<h3 align="center">A passionate Data Analtytics From India. I passionate to work in Corporate IT Sector
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiv0602&label=Profile%20views&color=0e75b6&style=flat" alt="jaiswaladi246" /> </p>
