@@ -20,4 +20,4 @@ Passionate and skilled Mechanical Engineering graduate with over 2.8 years of ex
 
 In Data Analytics I developed my knowledge and skills in data mining, predictive analytics, and big data. With hands-on experience from companies like Accenture,TATA,Pwc and tha Consulting Services, I have honed my abilities in optimizing data pipelines, conducting data correlations analysis, and creating impactful data visualizations. My passion lies in using data-driven insights to solve complex problems and drive business strategies. 
 
-
+www.linkedin.com/in/shiv0602
